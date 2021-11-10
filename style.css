@@ -1,0 +1,43 @@
+.jumbotron {
+	padding-top: 6rem;
+	background-color: #e2edff;
+}
+
+h2 {
+	font-weight: bold;
+	margin-bottom: 2rem;
+}
+
+body {
+	min-height: 3000;
+}
+
+#projects {
+	background-color: #e2edff;
+}
+
+form {
+	text-align: left;
+	padding-left: 0;
+	margin-left: 0;
+}
+
+footer p a{
+	text-decoration: none;
+}
+
+section {
+	padding-top: 7rem;
+}
+
+*{
+	font-family: "MS Gothic", monospace;;
+}
+
+div ul li a:hover {
+
+	background: red;
+	color: white;
+	cursor: pointer;
+	
+}
